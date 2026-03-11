@@ -1,5 +1,6 @@
-id: b757c72d-92dc-478c-9580-5c0d4d8dd61b
 name: habit-streak
+project_scope: main
+project_type: standalone
 description: React + TypeScript + Vite
 tier: prototype
 lane: oss
@@ -9,5 +10,6 @@ stack: [typescript, react, convex, vite]
 repo: "https://github.com/mxn2020/habit-streak"
 deploy_url: null
 last_active: 2026-02-25
-tags: []
-notes: 
+tags: [habits, tracking, streaks, productivity, personal, goals, wellness]
+notes: null
+id: b757c72d-92dc-478c-9580-5c0d4d8dd61b

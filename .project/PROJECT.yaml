@@ -1,0 +1,16 @@
+name: habit-streak
+project_scope: main
+project_type: standalone
+description: Habit tracking with streaks, charts, and gamification
+tier: prototype
+lane: open-source
+priority: medium
+oss: true
+stack: ["typescript", "react", "vite", "convex"]
+repo: "https://github.com/mxn2020/habit-streak"
+deploy_url: null
+last_active: 2026-03-11
+tags: ["habit-streak", "convex", "react", "open-source", "ai-tools"]
+notes: null
+id: null
+category: oss-tool
